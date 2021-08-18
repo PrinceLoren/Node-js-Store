@@ -3,9 +3,9 @@
 
 Test User is
 
-<strong>Test@test.com</strong>
+<strong>test123@gmail.com</strong>
 
-<strong>123456</strong>
+<strong>123456789</strong>
 
 Or you can register new user
 
